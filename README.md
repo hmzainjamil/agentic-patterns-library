@@ -1,5 +1,9 @@
 # agentic-patterns-library
 
+<!-- HMZ PORTFOLIO STANDARD -->
+> Portfolio status: active · Visibility: public · Source of truth: current repository source.
+<!-- END HMZ PORTFOLIO STANDARD -->
+
 > **Agentic Patterns Library** — 50+ production agent patterns: ReAct, RAG, multi-agent, tool-use, and AGENT.md blueprints.
 
 <p align="center">
